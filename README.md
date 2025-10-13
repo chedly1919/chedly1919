@@ -33,9 +33,9 @@
 ---
 
 ### 📫 How to reach me  
-- 📧 Email: [chedly.bahles@example.com](mailto:chedly.bahles@example.com)  
-- 💼 LinkedIn: [linkedin.com/in/chedly-bahles](https://linkedin.com/in/chedly-bahles)  
-- 🧑‍💻 Portfolio: [chedly-bahles.vercel.app](https://chedly-bahles.vercel.app)
+- 📧 Email: [chedly.bahles@example.com](mailto:medchedly.bahles@esprit.tn)  
+- 💼 LinkedIn: [linkedin.com/in/chedly-bahles](www.linkedin.com/in/med-chedly-bahles-569b89272)  
+- 🧑‍💻 Portfolio: [chedly-bahles.vercel.app]([https://chedly-bahles.vercel.app](https://portfolio-phi-vert-e653pa7eu3.vercel.app))
 
 ---
 
