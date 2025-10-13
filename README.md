@@ -13,10 +13,8 @@
 <h3 align="center">Computer Engineer – Data Specialist</h3>
 
 <!-- ====== HERO ILLUSTRATION (OPTIONNEL) ====== -->
-<h3 align="center">Computer Engineer – Data Specialist</h3>
-
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/32e69887f19d6f220bcdcfeee04f4f0b.gif" width="400" alt="Developer animation" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="360" alt="Developer at desk animation">
 </p>
 
 
@@ -126,3 +124,8 @@ Passionate about data-driven innovation and intelligent systems, I’m eager to 
   <a href="https://symfony.com" target="_blank" rel="noreferrer"><img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/></a>
 </p>
 
+<!-- ====== FOOTER STATS (OPTIONNEL) ====== -->
+<hr/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chedly07&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
