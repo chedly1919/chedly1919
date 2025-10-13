@@ -13,9 +13,12 @@
 <h3 align="center">Computer Engineer – Data Specialist</h3>
 
 <!-- ====== HERO ILLUSTRATION (OPTIONNEL) ====== -->
+<h3 align="center">Computer Engineer – Data Specialist</h3>
+
 <p align="center">
   <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/32e69887f19d6f220bcdcfeee04f4f0b.gif" width="400" alt="Developer animation" />
 </p>
+
 
 <!-- ====== CONTENT CARD ====== -->
 <div align="left">
