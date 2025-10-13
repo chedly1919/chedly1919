@@ -123,8 +123,3 @@ Passionate about data-driven innovation and intelligent systems, I’m eager to 
   <a href="https://symfony.com" target="_blank" rel="noreferrer"><img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/></a>
 </p>
 
-<!-- ====== FOOTER STATS (OPTIONNEL) ====== -->
-<hr/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chedly07&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
