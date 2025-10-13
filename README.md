@@ -1,19 +1,31 @@
 <h1 align="center">Hi 👋, I'm Mohamed Chedly Bahles</h1>
 <h3 align="center">Computer Engineer – Data Specialist</h3>
 
-- 🌱 I’m currently learning **- MLOps & model deployment with **MLflow**, **Docker**, and **Jenkins** - Cloud data pipelines with **Snowflake** and **Talend** - Advanced **NLP**, **Deep Learning**, and **Time Series Forecasting****
+- 🌱 I’m currently learning
 
-- 🤝 I’m looking for help with **- Open-source data science and AI projects - Real-world business analytics & ML pipelines - BI dashboards with **Power BI****
+  MLOps & model deployment with MLflow, Docker, and Jenkins
 
-- 👨‍💻 All of my projects are available at [https://portfolio-phi-vert-e653pa7eu3.vercel.app](https://portfolio-phi-vert-e653pa7eu3.vercel.app)
+  Cloud data pipelines with Snowflake and Talend
 
-- 📫 How to reach me **medchedly.bahles@esprit.tn**
+  Advanced NLP, Deep Learning, and Time Series Forecasting
 
-- ⚡ Fun fact **I enjoy mixing **creative design thinking** with **technical problem-solving** — because impactful AI isn’t just smart, it’s also **human-centered**.**
+- 🤝 I’m looking for help with
+
+A third-year engineering student in Business Intelligence, currently seeking a PFE internship in BI, AI, and web development.
+Passionate about data-driven innovation and intelligent systems, I’m eager to apply my skills in real-world environments, contribute to impactful projects, and grow within a dynamic and collaborative tech team.
+
+- 👨‍💻 All of my projects are available at
+    [https://portfolio-phi-vert-e653pa7eu3.vercel.app](https://portfolio-phi-vert-e653pa7eu3.vercel.app)
+
+- 📫 How to reach me
+    **medchedly.bahles@esprit.tn**
+
+- ⚡ Fun fact **I enjoy mixing 
+    **creative design thinking** with **technical problem-solving** — because impactful AI isn’t just smart, it’s also **human-centered**.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/med-chedly-bahles-569b89272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/med-chedly-bahles-569b89272" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/med chedly bahles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="med chedly bahles" height="30" width="40" /></a>
 <a href="https://fb.com/chedly bahles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chedly bahles" height="30" width="40" /></a>
 <a href="https://instagram.com/chedly_bahles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chedly_bahles" height="30" width="40" /></a>
 </p>
